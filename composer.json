@@ -13,6 +13,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/htmlgraphic/vcard"
+        }
+    ],
     "require": {
         "php": ">=5.3.3",
         "behat/transliterator": "~1.0"
